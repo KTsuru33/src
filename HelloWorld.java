@@ -1,4 +1,4 @@
-package:io.github.ktsuru33.HelloWrld
+package:io.github.ktsuru33.HelloWorld
 
 public class HelloWorld{
 	public static void main(String[] args){
